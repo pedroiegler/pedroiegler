@@ -32,10 +32,3 @@
   <img align="center" alt="Pedro-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Pedro-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
-
-##
-
-## Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroiegler&repo=Site_Mel&theme=dark)](https://github.com/pedroiegler/Site_Mel)
-
