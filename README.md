@@ -1,4 +1,4 @@
-## Olá! Me chamo Pedro Iegler
+## Olá! Meu nome é Pedro Henrique Ferreira Iegler
 
 💻 Trabalho como Desenvolvedor Web
 
