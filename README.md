@@ -4,9 +4,9 @@
 
 ##
 
-<div style="display: inline_block; width: 100;">
-  <img style="width: 50;" height=200 src="https://github-readme-stats.vercel.app/api?username=PedroHIegler&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img style="width: 50;" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHIegler&layout=compact&&theme=dark" />
+<div style="display: inline_block;">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=pedroiegler&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiegler&layout=compact&&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
