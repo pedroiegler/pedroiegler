@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Pedro Iegler
+## Olá! Me chamo Pedro Iegler
 
 💻 Trabalho como Desenvolvedor Web
 
