@@ -1,8 +1,7 @@
 ## Olá! Meu nome é Pedro Iegler! 
   
 - 💻 Trabalho como Desenvolvedor Web
-- ss
-</> Portfólio: https://pedroiegler.github.io/
+- </> Portfólio: https://pedroiegler.github.io/
 
 ##
 
