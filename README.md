@@ -14,8 +14,8 @@
 ##
 
 <div style="display: inline_block;">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=pedroiegler&show_icons=true&theme=dark" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroiegler&layout=compact&langs_count=8&theme=dark" />
+  <img height=190 src="https://github-readme-stats.vercel.app/api?username=pedroiegler&show_icons=true&theme=dark" />
+  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroiegler&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 ## Tecnologias que utilizo no meu dia-a-dia:
