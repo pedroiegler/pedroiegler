@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Pedro Iegler! 
   
-- 💻 Trabalho como Desenvolvedor Web
+- 💻 I'm a Full Stack Developer.
 - </> Portfólio: https://pedroiegler.github.io/
 
 ##
