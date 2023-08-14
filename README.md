@@ -1,4 +1,4 @@
-## Olá! Meu nome é Pedro Iegler! 
+## Hi there! My name is Pedro Iegler! 
   
 - 💻 I'm a Full Stack Developer.
 - </> Portfólio: https://pedroiegler.github.io/
@@ -20,7 +20,7 @@
 
 
 
-## Tecnologias que utilizo no meu dia-a-dia:
+## Technologies I use in my daily life:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
