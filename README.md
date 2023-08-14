@@ -1,4 +1,4 @@
-## Hi there! My name is Pedro Iegler! 
+## 👋 Hi there! My name is Pedro Iegler! 
   
 - 💻 I'm a Full Stack Developer.
 - </> Portfólio: https://pedroiegler.github.io/
