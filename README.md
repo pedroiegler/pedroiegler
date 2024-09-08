@@ -8,7 +8,6 @@
 <div> 
   <a href="https://linkedin.com/in/pedro-iegler-15a656209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white][" target="_blank"></a> 
   <a href="https://instagram.com/pedroiegler/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b30525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedroiegler1601@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
