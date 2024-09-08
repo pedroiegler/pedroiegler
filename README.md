@@ -17,7 +17,6 @@
   <img height=195 src="https://github-readme-stats.vercel.app/api?username=pedroiegler&show_icons=true&theme=dark">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiegler&layout=compact&theme=dark">
 </div>
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
 
 ## </> Technologies that knowledge and experiences:
 
