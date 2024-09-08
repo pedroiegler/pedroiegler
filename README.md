@@ -2,6 +2,7 @@
   
 - I'm a Full Stack Developer.
 - Portfólio: https://pedroiegler.github.io/
+- E-mail: pedroiegler1601@outlook.com
 
 ##
 
