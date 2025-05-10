@@ -77,4 +77,4 @@ I am a Full Stack Developer with a strong passion for building scalable, flexibl
 
 ### 📈 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/pedro-iegler-15a656209/). Let's build something amazing together! 💻🌟
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/pedro-iegler-15a656209/). 💻🌟
