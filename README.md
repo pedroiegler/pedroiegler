@@ -4,7 +4,6 @@
 
 - 📧 **Email**: [pedroiegler1601@outlook.com](mailto:pedroiegler1601@outlook.com)
 - 🌐 **LinkedIn**: [pedro-iegler](https://linkedin.com/in/pedro-iegler/)
-- 🐙 **GitLab**: [pedroiegler](https://gitlab.com/pedroiegler)
 
 ---
 
