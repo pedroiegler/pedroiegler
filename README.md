@@ -15,10 +15,14 @@ I am a Full Stack Developer with a strong passion for building scalable, flexibl
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=pedroiegler&show_icons=true&theme=dark">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiegler&layout=compact&theme=dark">
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pedroiegler&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroiegler&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroiegler&theme=github_dark" />
+</p>
 
 ---
 
